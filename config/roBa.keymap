@@ -81,7 +81,7 @@
 &kp ESCAPE      &none     &kp UP_ARROW    &none            &kp KP_PLUS                                                  &kp N7        &kp N8        &kp N9        &kp BACKSLASH  &kp KP_EQUAL
 &none           &kp LEFT  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp KP_ASTERISK  &none             &kp LEFT_PARENTHESIS      &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp SQT        &kp GRAVE
 &kp LEFT_SHIFT  &none     &none           &none            &kp KP_MINUS     &kp KP_SLASH      &kp RIGHT_PARENTHESIS     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp PERIOD     &kp RIGHT_GUI
-&trans          &trans    &trans          &trans           &trans           &trans            &kp INT_KATAKANAHIRAGANA  &kp NUMBER_0                                             &none
+&trans          &trans    &trans          &trans           &trans           &trans            &kp INT_KATAKANAHIRAGANA  &kp NUMBER_0                                             &kp SLASH
             >;
         };
 

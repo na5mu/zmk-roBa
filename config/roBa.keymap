@@ -78,10 +78,10 @@
 
         NUM {
             bindings = <
-&kp ESCAPE      &none      &kp UP_ARROW    &none            &kp KP_PLUS                                               &kp N7        &kp N8        &kp N9        &kp BACKSLASH  &kp KP_EQUAL
-&none           &kp LEFT   &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp KP_MINUS     &none             &kp LEFT_PARENTHESIS   &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp SQT        &mt RIGHT_GUI GRAVE
-&kp LEFT_SHIFT  &kp LG(A)  &kp LG(C)       &kp LG(V)        &kp KP_ASTERISK  &kp KP_SLASH      &kp RIGHT_PARENTHESIS  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp PERIOD     &kp RIGHT_GUI
-&trans          &trans     &trans          &trans           &trans           &trans            &kp COMMA              &kp NUMBER_0                                             &kp SLASH
+&kp ESCAPE            &none      &kp UP_ARROW    &none            &kp KP_PLUS                                               &kp N7        &kp N8        &kp N9        &kp BACKSLASH  &kp KP_EQUAL
+&none                 &kp LEFT   &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp KP_MINUS     &none             &kp LEFT_PARENTHESIS   &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp SQT        &mt RIGHT_GUI GRAVE
+&mt LEFT_SHIFT LG(Z)  &kp LG(A)  &kp LG(C)       &kp LG(V)        &kp KP_ASTERISK  &kp KP_SLASH      &kp RIGHT_PARENTHESIS  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp PERIOD     &kp RIGHT_GUI
+&trans                &trans     &trans          &trans           &trans           &trans            &kp COMMA              &kp NUMBER_0                                             &kp SLASH
             >;
         };
 

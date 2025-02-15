@@ -78,10 +78,10 @@
 
         NUM_ARROW {
             bindings = <
-&kp ESCAPE      &kp LC(LS(TAB))   &kp UP_ARROW    &kp LC(TAB)        &kp KP_PLUS                                               &kp KP_SLASH  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9           &kp BACKSLASH
-&none           &kp LEFT          &kp DOWN_ARROW  &kp RIGHT_ARROW    &kp KP_MINUS     &none             &kp LEFT_PARENTHESIS   &kp KP_EQUAL  &kp NUMBER_4  &kp N5        &mt LEFT_ALT NUMBER_6  &mt RIGHT_GUI GRAVE
-&kp LEFT_SHIFT  &kp LG(LS(LEFT))  &none           &kp LG(LS(RIGHT))  &kp KP_ASTERISK  &kp KP_SLASH      &kp RIGHT_PARENTHESIS  &kp PERIOD    &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3           &kp RIGHT_SHIFT
-&trans          &trans            &trans          &trans             &trans           &trans            &mt LEFT_GUI COMMA     &kp NUMBER_0                                                     &none
+&kp ESCAPE      &kp LC(LS(TAB))         &kp UP_ARROW    &kp LC(TAB)              &kp KP_PLUS                                               &kp KP_SLASH  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9           &kp BACKSLASH
+&none           &kp LEFT                &kp DOWN_ARROW  &kp RIGHT_ARROW          &kp KP_MINUS     &none             &kp LEFT_PARENTHESIS   &kp KP_EQUAL  &kp NUMBER_4  &kp N5        &mt LEFT_ALT NUMBER_6  &mt RIGHT_GUI GRAVE
+&kp LEFT_SHIFT  &kp LG(LS(LEFT_ARROW))  &none           &kp LG(LS(RIGHT_ARROW))  &kp KP_ASTERISK  &kp KP_SLASH      &kp RIGHT_PARENTHESIS  &kp PERIOD    &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3           &kp RIGHT_SHIFT
+&trans          &trans                  &trans          &trans                   &trans           &trans            &mt LEFT_GUI COMMA     &kp NUMBER_0                                                     &none
             >;
         };
 

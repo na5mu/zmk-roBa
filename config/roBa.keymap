@@ -96,10 +96,10 @@
 
         MARK_SELECT {
             bindings = <
-&kp ESCAPE                &none                       &kp LS(LG(UP_ARROW))    &none                        &none                                               &kp AT_SIGN  &kp AMPERSAND      &kp PIPE          &kp KP_EQUAL  &kp CARET
-&kp LS(LC(LEFT_ARROW))    &kp LS(LG(LEFT_ARROW))      &kp LS(LG(DOWN_ARROW))  &kp LG(LS(RIGHT_ARROW))      &kp LS(LC(RIGHT_ARROW))  &trans             &none   &kp QMARK    &kp HASH           &kp PERCENT       &kp KP_SLASH  &kp TILDE
-&mt LEFT_SHIFT LS(LA(Z))  &kp LS(LA(LC(LEFT_ARROW)))  &kp LA(LS(K))           &kp LS(LA(LC(RIGHT_ARROW)))  &none                    &kp LS(LA(N))      &none   &kp EXCL     &kp DOUBLE_QUOTES  &kp SINGLE_QUOTE  &kp DOLLAR    &kp BACKSLASH
-&kp LS(LA(SPACE))         &kp LS(LA(H))               &kp LS(LA(L))           &kp LS(LA(N))                &trans                   &trans             &trans  &trans                                                          &trans
+&kp ESCAPE                &none                       &kp LS(LG(UP_ARROW))    &none                        &none                                                   &kp AT_SIGN  &kp AMPERSAND      &kp PIPE          &kp KP_EQUAL  &kp CARET
+&kp LS(LC(LEFT_ARROW))    &kp LS(LG(LEFT_ARROW))      &kp LS(LG(DOWN_ARROW))  &kp LG(LS(RIGHT_ARROW))      &kp LS(LC(RIGHT_ARROW))  &trans                 &none   &kp QMARK    &kp HASH           &kp PERCENT       &kp KP_SLASH  &kp TILDE
+&mt LEFT_SHIFT LS(LA(Z))  &kp LS(LA(LC(LEFT_ARROW)))  &kp LA(LS(K))           &kp LS(LA(LC(RIGHT_ARROW)))  &none                    &kp LS(LA(ENTER))      &none   &kp EXCL     &kp DOUBLE_QUOTES  &kp SINGLE_QUOTE  &kp DOLLAR    &kp BACKSLASH
+&kp LS(LA(SPACE))         &kp LS(LA(H))               &kp LS(LA(L))           &kp LS(LA(N))                &trans                   &trans                 &trans  &trans                                                          &trans
             >;
 
             sensor-bindings = <&inc_dec_kp LC(PAGE_UP) LC(PAGE_DOWN)>;

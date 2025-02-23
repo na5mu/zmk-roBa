@@ -10,7 +10,7 @@
 &mt {
     flavor = "balanced";
     quick-tap-ms = <0>;
-    apping-term-ms = <400>;
+    tapping-term-ms = <400>;
 };
 
 / {
